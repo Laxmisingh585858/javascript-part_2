@@ -1,4 +1,4 @@
-program to check positive ,negetive and zero
+// program to check positive ,negetive and zero
 
 
 
