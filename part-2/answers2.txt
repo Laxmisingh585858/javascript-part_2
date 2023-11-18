@@ -1,19 +1,19 @@
-answer1-
+/* answer1-
 ternary operator basically use in case of decision making when longer conditional statements like if and else exist.
 It will improve the readability of the code.
 syntax=
  
-variable= (condition)? "expression1":" expression2";
+variable= (condition)? "expression1":" expression2"; */
 
 
 
 
-answer2-
+/* answer2-
 commom operator
 The comma operator allows you to evaluate multiple expressions , returning the result of the
-last expression.
+last expression. */
 
-example=
+// example=
 let x=5;
 (x++, x+=4, x*=2);
-console.log(x);
+console.log(x); //20
